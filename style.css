@@ -7,4 +7,10 @@ header{
     text-align: center;
     color: darkolivegreen;
     border: dotted;
+    .top1{
+        text-align: center;
+        background-color: crimson;
+        padding-bottom: 40px;
+    }
+}
 }
